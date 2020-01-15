@@ -1,0 +1,5 @@
+java.core
+logs/
+crash-reports/
+*.log
+
