@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2020-01-25 11:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-11-11 08:52:23 +0000"
@@ -841,6 +847,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-11-09 04:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-01-25 11:43:52 +0000"
     },
     "done": true
   },
@@ -1381,6 +1393,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-11-10 14:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-01-25 11:34:28 +0000"
     },
     "done": true
   },
