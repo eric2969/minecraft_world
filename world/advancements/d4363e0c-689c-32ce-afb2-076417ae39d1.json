@@ -1,0 +1,22 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-01-29 14:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-01-29 14:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-01-29 14:35:54 +0000",
+      "minecraft:plains": "2020-01-29 14:32:31 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2227
+}
