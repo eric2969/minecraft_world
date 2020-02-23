@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-02-10 13:33:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-12-14 15:26:44 +0000"
@@ -684,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-02-10 13:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2020-01-27 08:27:46 +0000"
@@ -933,6 +945,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-12-14 15:33:51 +0000",
+      "minecraft:ghast": "2020-02-10 13:38:01 +0000",
       "minecraft:vindicator": "2020-01-27 09:13:07 +0000",
       "minecraft:spider": "2019-12-14 15:11:14 +0000",
       "minecraft:creeper": "2019-12-14 15:50:40 +0000",
@@ -963,6 +976,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-02-04 08:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-02-10 13:33:13 +0000"
     },
     "done": true
   },
@@ -1293,6 +1312,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-02-04 08:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2020-02-10 13:38:14 +0000"
     },
     "done": true
   },

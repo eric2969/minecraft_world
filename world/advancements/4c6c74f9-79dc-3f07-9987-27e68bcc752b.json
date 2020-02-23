@@ -957,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-02-16 17:00:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2019-11-08 14:27:22 +0000"
@@ -1078,6 +1084,7 @@
       "minecraft:birch_forest": "2019-11-12 13:30:20 +0000",
       "minecraft:warm_ocean": "2019-11-12 13:24:34 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-11-12 13:28:38 +0000",
+      "minecraft:savanna_plateau": "2020-02-16 16:57:55 +0000",
       "minecraft:beach": "2019-11-10 15:05:58 +0000",
       "minecraft:river": "2019-11-08 14:25:22 +0000",
       "minecraft:lukewarm_ocean": "2019-11-12 13:25:58 +0000",
@@ -1085,6 +1092,7 @@
       "minecraft:wooded_hills": "2019-11-10 16:52:26 +0000",
       "minecraft:stone_shore": "2019-11-10 12:48:10 +0000",
       "minecraft:swamp": "2019-11-10 13:10:53 +0000",
+      "minecraft:savanna": "2020-02-16 16:59:19 +0000",
       "minecraft:plains": "2019-11-10 12:48:57 +0000"
     },
     "done": false

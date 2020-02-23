@@ -288,6 +288,7 @@
       "cooked_beef": "2020-01-30 16:31:00 +0000",
       "cooked_cod": "2020-01-31 13:58:01 +0000",
       "mushroom_stew": "2020-02-05 14:25:29 +0000",
+      "cod": "2020-02-15 13:08:42 +0000",
       "cooked_salmon": "2020-01-31 13:48:01 +0000"
     },
     "done": false
@@ -716,6 +717,8 @@
     "criteria": {
       "minecraft:skeleton": "2020-01-30 14:52:50 +0000",
       "minecraft:spider": "2020-01-30 14:46:24 +0000",
+      "minecraft:creeper": "2020-02-15 13:56:50 +0000",
+      "minecraft:phantom": "2020-02-15 14:02:12 +0000",
       "minecraft:witch": "2020-02-05 14:36:38 +0000",
       "minecraft:husk": "2020-02-05 14:16:23 +0000",
       "minecraft:enderman": "2020-01-30 16:22:37 +0000",
@@ -1312,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2020-02-15 12:39:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-01-30 14:36:09 +0000"
@@ -1354,6 +1363,7 @@
       "minecraft:stone_shore": "2020-01-30 14:43:05 +0000",
       "minecraft:mushroom_field_shore": "2020-02-05 14:13:20 +0000",
       "minecraft:swamp": "2020-01-30 15:25:10 +0000",
+      "minecraft:savanna": "2020-02-15 12:51:07 +0000",
       "minecraft:plains": "2020-01-30 14:26:27 +0000"
     },
     "done": false
@@ -1427,6 +1437,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-01-30 14:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-02-15 13:12:35 +0000"
     },
     "done": true
   },
